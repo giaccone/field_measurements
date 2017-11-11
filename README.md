@@ -51,7 +51,7 @@ The same concept applies for the selection of the planes at x=0.5m, x=0.6m, x=0.
 <img src="./img/B_y0cm.png" width="270">
 </p>
 <center>
-<b>Fig. 2</b> B-field on the plane x=0.5m (upper left). B-field on the plane x=1m (upper right). B-field on the plane y=0m (lower center).
+<b>Fig. 2</b> B-field on the plane x=0.5m (left). B-field on the plane x=1m (center). B-field on the plane y=0m (right).
 </center>
 
 The raw data are finally interpolated on a regularly spaced grid (grid size 10 cm) of 1386 points and provided in this repository.
