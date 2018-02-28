@@ -4,11 +4,11 @@
 
 This repository includes the magnetic flux density measured in front of a power transformer at 1386 regularly spaced points.
 
-These data are used in the paper: 
+These data have been registered for research purposes. If you use them for your research, you can consider citing the following reference where the measurement procedure and the data are fully described:
 
-* **Freschi F., Giaccone L., Cirimele V., Canova A., *"Numerical assessment of low-frequency dosimetry from sampled magnetic fields"*, Physics in Medicine & Biology, in press, doi:10.1088/1361-6560/aa9915**
+* **Freschi F., Giaccone L., Cirimele V., Canova A., *"Numerical assessment of low-frequency dosimetry from sampled magnetic fields"*, Physics in Medicine & Biology, Vol 63 (2018) 015029, doi:10.1088/1361-6560/aa9915**
 
-The paper has been recently accepted for publication. It is available on-line in early view at this [link](http://iopscience.iop.org/article/10.1088/1361-6560/aa9915). 
+The paper is available on-line here [link](http://iopscience.iop.org/article/10.1088/1361-6560/aa9915). 
 
 ## Repository content
 
