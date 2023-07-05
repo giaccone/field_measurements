@@ -1,7 +1,7 @@
 % -----------------------------------------------
-% 1-st column: x component (m)                  |
-% 2-nd column: y component (m)                  |
-% 3-rd column: z component (m)                  |
+% 1-st column: x coordinate (m)                  |
+% 2-nd column: y coordinate (m)                  |
+% 3-rd column: z coordinate (m)                  |
 % 4-th column: real component of Bx (T)         |
 % 5-th column: real component of By (T)         |
 % 6-th column: real component of Bz (T)         |
